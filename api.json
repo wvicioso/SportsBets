@@ -1,0 +1,48 @@
+{
+  "games": [
+    {
+      "start_time": "2019-05-08T20:00:00-0500",
+      "team_away": "bos",
+      "team_home": "mil",
+      "spread": {
+        "away": 9.0,
+        "home": -9.0,
+        "pick": "a",
+        "rating": 1
+      },
+      "moneyline": {
+        "away": 310,
+        "home": -390,
+        "pick": "a",
+        "rating": 0
+      },
+      "over_under": {
+        "line": 221.5,
+        "pick": "u",
+        "rating": 0
+      }
+    },
+    {
+      "start_time": "2019-05-08T22:30:00-0500",
+      "team_away": "hou",
+      "team_home": "gs",
+      "spread": {
+        "away": 6.0,
+        "home": -6.0,
+        "pick": "h",
+        "rating": 3
+      },
+      "moneyline": {
+        "away": 215,
+        "home": -270,
+        "pick": "h",
+        "rating": 0
+      },
+      "over_under": {
+        "line": 220.5,
+        "pick": "o",
+        "rating": 5
+      }
+    }
+  ]
+}
