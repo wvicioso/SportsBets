@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const Header = () => {
   return(
     <View style={styles.header}>
-      <Text style={styles.headerText}>SPORTS BET</Text>
+      <Text style={styles.headerText}>SPORT BETS</Text>
     </View>
   )
 }
